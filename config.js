@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: "iu pé nhất trên đời luôn =))))",
-    introTitle: 'pé iu',
+    introTitle: 'pé ơi',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
